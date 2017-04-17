@@ -11,6 +11,8 @@ public class Product
     
     private String height;
     
+    private String color;
+    
     public void sayHello()
     {
         System.out.println("hello xiaoming");
