@@ -15,6 +15,8 @@ public class Product
     
     private String cc;
     
+    private String dd;
+    
     public void sayHello()
     {
         System.out.println("hello xiaoming");
