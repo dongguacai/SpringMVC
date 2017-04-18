@@ -13,6 +13,8 @@ public class Product
     
     private String color;
     
+    private String cc;
+    
     public void sayHello()
     {
         System.out.println("hello xiaoming");
